@@ -42,7 +42,8 @@ Ps: no se que preguntas tendran... espero que durante el flujo de trabajo nos da
 Bienvenidos a la primera etapa de su camino a ser un desarrollador web profesional.
 En la etapa uno vamos a aprender dos conceptos importantes: HTML y CSS
 Al final se entrega una pagina sencilla usando solo HTML y CSS sobre los perros. Debe contener dos archivos no mas: index.html y style.css, ambos tienen que estar conectados.
-La pagina nos debe contar sobre los perros, ejemplo de la pagina encontraran en el sigueinte link: (lo subire pronto)
+La pagina nos debe contar sobre los perros, ejemplo de la pagina encontraran en el sigueinte link: 
+![](http://image.ibb.co/duAVO7/2018_02_18_16_29_17.png)
 Caracteristicas que debe tener la pagina
 Tags:
 - title
