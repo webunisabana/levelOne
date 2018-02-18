@@ -1,4 +1,4 @@
-#Level One
+# Level One
 
 Hola a todos los estudiantes de la Uiversidad de la Sabana los que quieren aprender todo lo que tiene que ver con desarrollo de aplicaciones moviles y mas.
 Es un camino largo, pero juntos podemos crear e implementar proyectos nuevos.
@@ -22,7 +22,7 @@ En este semillero vamos a aprender las sigueintes temas y los sigueintes concept
 - Docker, Heroku
 - Googleo intenso :P
 
-##FAQ
+## FAQ
 Que sistema operativo debo usar ?
 \- Puedes programar en cualquier sistema operativo sin ningun tipo de problema.
 
